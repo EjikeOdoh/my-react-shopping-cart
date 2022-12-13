@@ -1,0 +1,11 @@
+.container {
+  margin: 0 100px;
+}
+
+.shop {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: space-evenly;
+  margin: 20px 100px;
+}

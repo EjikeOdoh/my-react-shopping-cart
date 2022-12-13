@@ -1,0 +1,19 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 50px;
+  align-items: center;
+  background-color: #181d31;
+  color: #f3f3f3;
+}
+
+.logo {
+  font-family: cursive;
+}
+
+.cart {
+  display: inline-block;
+  position: relative;
+  border: 1px solid gray;
+  padding: 5px;
+}

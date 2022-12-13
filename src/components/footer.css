@@ -1,0 +1,10 @@
+footer {
+  display: grid;
+  place-items: center;
+  margin-top: 50px;
+  padding: 20px;
+  font-size: 0.6rem;
+  font-weight: bold;
+  background-color: #181d31;
+  color: #f3f3f3;
+}
